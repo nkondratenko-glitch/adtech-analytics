@@ -1,4 +1,4 @@
-## Kondratenko | HW 1 | Data Engineering: Ad Campaign Analytics
+## Kondratenko | HW 2 | Data Engineering: Ad Campaign Analytics
 
 This homework extends the normalized MySQL schema from Homework 1 with analytical SQL queries for evaluating campaign performance, advertiser spending, cost efficiency, regional revenue, user engagement, and budget consumption.
 
